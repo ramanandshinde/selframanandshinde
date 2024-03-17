@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(190, 173, 173);
+}
+.wapper{
+    height: 9%;
+    width: 100%;
+}
+.nav2{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: end;
+    align-items: center; 
+}
+
+.first{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: end;
+    color: #000;
+}
+.first,button{
+
+    display:flex;
+    justify-content: space-evenly;
+    align-items: end;
+    margin-right: 6vw;
+    padding: 0.6vw 2vw;
+    border-radius: 20px;
+    border:none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.second{
+    height: 30%;
+    width: 30%;
+}
+.second,img{
+    height: 140%;
+    display: flex;
+    justify-content: start;
+    align-items: start;
+}
+.upper{
+    height: 80%;
+    width: 80%;
+    background-color:rgb(235, 235, 180);
+     margin: 2vw 9vw;
+     display: flex;
+     border: 3px solid rgb(226, 223, 31);
+     border-radius: 20px
+    
+}
+.one{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 4vw;
+    
+;
+}
+.one b{
+    color: brown;
+    
+}
+.button{
+    margin: 2vw;
+}
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 6vw;
+    margin-bottom: 4vw
+}
+.link img{
+       margin-bott;
+}
+.from{
+    height: 60%;
+    width: 40%;
+    background-color: rgb(86, 139, 139);
+     margin: 2vw 30vw;
+     display: flex;
+     border-radius: 20px;
+     background-image: url(/istockphoto.jpg);
+
+}
+.sonu{
+    margin-left: 13vw;
+    margin-top: 5vw;
+}
+.mon input{
+         padding: 0.5vw;
+}
+.son input{
+    padding: 0.5vw;
+}
+.buton button{
+    padding:5vw;
+}
+.dr{
+    font-family: 'Times New Roman', Times, serif;
+}
+.dr h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.pic{
+    height: 100%;
+    width: 50%;
+    border-radius: 50px;
+    
+}
+.pic img{
+           height: 70%;
+           width: 50%;
+           border-radius: 150px;
+           display: flex;
+           justify-content: center;
+           align-items: center;
+           margin: 6vw;
+}
